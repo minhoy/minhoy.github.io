@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "윤민호"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/green-pears.jpg"
   bio              : "개발 공부를 막 시작했습니다. <br> 꾸준히 업로드 하도록 노력하겠습니다."
   location         : "Republic of Korea"
   email            : "rightup93@gmail.com"
